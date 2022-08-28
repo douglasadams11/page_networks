@@ -1,4 +1,4 @@
-* note that this work was completed on my gov.uk account (douglasadams1111). I have now forked this into my personal account (douglasadams11).
+*Note that this work was completed on my gov.uk account (douglasadams1111). I have now forked this into my personal account (douglasadams11).*
 
 Graph files can be found here: https://drive.google.com/drive/folders/1bLMolKJoRzJKzIEQMTjcWfE0qF_VsoeN?usp=sharing
 
